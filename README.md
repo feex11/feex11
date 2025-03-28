@@ -21,6 +21,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Plataforma de Cursos Webinar](https://github.com/RafaEdu/projetoWebinar)
+- [Calculadora simples](https://github.com/feex11/Calculadora)
 
 <!-- GIF -->
 <p align="left">
