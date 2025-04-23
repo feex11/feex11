@@ -23,6 +23,7 @@
 - [Portfolio](https://cxjy7d.csb.app/) Com projetos simples.
 - [Plataforma de Cursos Webinar](https://github.com/RafaEdu/projetoWebinar)
 - [Calculadora simples](https://github.com/feex11/Calculadora)
+- [Gerador de cores Hexadecimais](https://github.com/feex11/GeradorCoresHex)
 
 <!-- GIF -->
 <p align="left">
