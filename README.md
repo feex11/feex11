@@ -25,6 +25,8 @@
 - [Calculadora simples](https://github.com/feex11/Calculadora)
 - [Gerador de cores Hexadecimais](https://github.com/feex11/GeradorCoresHex)
 - [Lista to Do](https://github.com/feex11/toDoList)
+- [Quiz Harry Potter - Descubra sua casa](https://github.com/feex11/quizHarryPotter)
+  
 
 <!-- GIF -->
 <p align="left">
